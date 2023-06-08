@@ -1,0 +1,11 @@
+#element{
+    width: 200px;
+    height: 200px;
+    background-color: magenta;
+}
+
+#bigger{
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
